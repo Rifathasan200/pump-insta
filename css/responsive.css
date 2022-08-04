@@ -132,7 +132,7 @@
         padding-right: 12px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 110px;
     }
 
@@ -468,6 +468,10 @@
         margin-left: 0px;
         text-align: center;
         margin-right: 97px;
+    }
+
+    #pricing-part .item .price-button{
+        width: 150px;
     }
 
     #pricing-part .item .button {
@@ -827,7 +831,7 @@
         padding-right: 42px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 110px;
     }
 
@@ -1163,6 +1167,10 @@
         margin-left: 0px;
         text-align: center;
         margin-right: 97px;
+    }
+
+    #pricing-part .item .price-button{
+        width: 150px;
     }
 
     #pricing-part .item .button {
@@ -1501,7 +1509,7 @@
         padding: 0 35px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 110px;
         margin: 0 auto;
     }
@@ -1845,6 +1853,10 @@
         margin-right: 97px;
     }
 
+    #pricing-part .item .price-button{
+        width: 150px;
+    }
+
     #pricing-part .item .button {
         width: 150px;
         margin-top: 35px !important;
@@ -2183,7 +2195,7 @@
         padding-right: 147px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 120px;
     }
 
@@ -2495,6 +2507,10 @@
         margin-left: 5px;
         text-align: center;
         margin-right: 97px;
+    }
+
+    #pricing-part .item .price-button{
+        width: 140px;
     }
 
     #pricing-part .item .button {
@@ -2861,7 +2877,7 @@
         padding-right: 27px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 120px;
     }
 
@@ -3174,6 +3190,10 @@
         text-align: center;
         margin-right: 97px;
     }
+
+    #pricing-part .item .price-button{
+        width: 140px;
+    } 
 
     #pricing-part .item .button {
         width: 140px;
@@ -3516,7 +3536,7 @@
         padding-right: 140px;
     }
 
-    #banner-part .details .button {
+    #banner-part .details .banner-button {
         width: 150px;
     }
 
@@ -3830,10 +3850,14 @@
         margin-right: 97px;
     }
 
+    #pricing-part .item .price-button{
+        width: 140px;
+    }
+
     #pricing-part .item .button {
         width: 140px;
         margin-top: 35px !important;
-        line-height: 40px;
+        line-height: 47px;
     }
 
     #pricing-part .dot-po .dot-img {

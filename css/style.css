@@ -212,9 +212,13 @@ nav .form .button span{
     margin-bottom: 30px;
 }
 
-#banner-part .details .button{
-    width: 180px;
+#banner-part .details .banner-button {
+	width: 180px;
 }
+
+/* #banner-part .details .button{
+    width: 180px;
+} */
 
 #banner-part .img-part{
     position: relative;
@@ -579,10 +583,14 @@ width: 314px;
     color: #E90024;
 }
 
+#pricing-part .item .price-button{
+    width: 180px;
+    margin: 0 auto;
+}
+
 #pricing-part .item .button{
     width: 180px;
     margin-top: 50px !important;
-   margin: 0 auto;
    background: #FFFFFF;
    border: 1px solid #E90024;
    transition: .4s;
